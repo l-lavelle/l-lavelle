@@ -1,11 +1,11 @@
 ### Nice to meet you! 👋
-
-![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-lavelle&show_icons=true&theme=dark)
+My name is Lauren Lavelle a full stack web developer. 
+![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-lavelle&show_icons=true&theme=tokyonight&bg_color=00000000)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lavelle&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lavelle&layout=donut&langs_count=8&hide=Jupyter_Notebooks)](https://github.com/l-lavelle/github-readme-stats)
-<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lavelle&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=7&theme=tokyonight&bg_color=00000000)
 
+<!--
+Used for graphs: https://github.com/anuraghazra/github-readme-stats
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
