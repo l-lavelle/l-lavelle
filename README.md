@@ -48,4 +48,5 @@ ___
 
 <!--
 Used for graphs: https://github.com/anuraghazra/github-readme-stats
+Badges: https://github.com/Ileriayo/markdown-badges
 -->
