@@ -1,7 +1,8 @@
 ### Nice to meet you! 👋
 
 ![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-lavelle&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lavelle&layout=pie)](https://github.com/l-lavelle/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lavelle&layout=donut&langs_count=8&hide=jupter)](https://github.com/l-lavelle/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
