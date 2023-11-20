@@ -1,5 +1,5 @@
 ### Nice to meet you! 👋
-My name is Lauren Lavelle a full stack web developer. 
+My name is Lauren Lavelle and I just finished a full stack bootcamp at Michigan State University and am working at Central Transport as a pricing and audit analyst. My coding journey has been a great experience so far and excited to continue to grow my skillset. I have a passion for working on the back-end with both SQL and noSQL databases. I can get anything working functionally on the front-end and working to become better at design. Currently working on a blog that curate’s content for users and a professional portfolio using react. Interested in learning more about security in order to implement strategies to protect web applications, user data, and API's.
 ___
 ### Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
