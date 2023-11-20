@@ -2,7 +2,7 @@
 
 ![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-lavelle&show_icons=true&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lavelle&layout=donut&langs_count=8&hide=Jupyter Notebooks)](https://github.com/l-lavelle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lavelle&layout=donut&langs_count=8&hide=Jupyter_Notebooks)](https://github.com/l-lavelle/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
